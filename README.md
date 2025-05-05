@@ -27,7 +27,7 @@ ensure nom_du_script
 Configurez les jobs autorisés, les messages, et le webhook dans le fichier de configuration.
 
 🖼️ Aperçu (Preview)
-[![Aperçu du menu annonce](https://github.com/lotso0/Menu-Annonce/blob/main/Menu_annonce_lotso%20(1)%20(1)%20(1).mp4?raw=true)
+[![Voir la vidéo](https://img.youtube.com/vi/eXCehKpzRHs/0.jpg)](https://www.youtube.com/watch?v=eXCehKpzRHs)
 
 ❓ Support
 📬 Pour toute question ou assistance :
