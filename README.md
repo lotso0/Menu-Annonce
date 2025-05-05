@@ -27,7 +27,11 @@ ensure nom_du_script
 Configurez les jobs autorisés, les messages, et le webhook dans le fichier de configuration.
 
 🖼️ Aperçu (Preview)
+
+
 [![Voir la vidéo](https://img.youtube.com/vi/eXCehKpzRHs/0.jpg)](https://www.youtube.com/watch?v=eXCehKpzRHs)
+
+
 
 ❓ Support
 📬 Pour toute question ou assistance :
